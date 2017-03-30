@@ -1,0 +1,13 @@
+body{
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 250px;
+    padding-left: 240px;
+    background-color: 	B0C4DE;
+  
+}
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
